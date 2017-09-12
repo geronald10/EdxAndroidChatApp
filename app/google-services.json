@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "310216003935",
+    "firebase_url": "https://edx-androidchatapp.firebaseio.com",
+    "project_id": "edx-androidchatapp",
+    "storage_bucket": "edx-androidchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310216003935:android:73ac3347ff4a0419",
+        "android_client_info": {
+          "package_name": "goronald.web.id.edxandroidchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310216003935-o3j3i3bv769rgime6mdfpg6j0eql72vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxxAlVF1LqkIqiZ2jLdfCli20K4ard5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
