@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EdxAndroidChatApp</string>
+    <string name="email_string">Email</string>
+    <string name="password_string">Password</string>
+    <string name="sign_in_string">Sign In</string>
+    <string name="sign_up_string">Sign Up</string>
 </resources>
